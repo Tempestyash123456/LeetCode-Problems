@@ -9,3 +9,5 @@
 5. [Single-number](https://github.com/Tempestyash123456/DSA-problems/blob/main/Day1/Single-number.md)
 
 6. [Contains-duplicates](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day1/Contains-duplicate.md)
+
+7. [Merge-sorted-array](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Merge-sorted-array.md)
