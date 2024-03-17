@@ -1,5 +1,3 @@
-# Problems on Leetcode 
-
 1. [Plus-one](https://github.com/Tempestyash123456/DSA-problems/blob/main/Day1/Plus-one.md)
 
 2. [Remove-duplicates-from-sorted-array](https://github.com/Tempestyash123456/DSA-problems/blob/main/Day1/Remove-Duplicates-From-Sorted-Arrays.md)
