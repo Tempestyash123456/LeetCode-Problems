@@ -11,3 +11,5 @@
 6. [Contains-duplicates](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day1/Contains-duplicate.md)
 
 7. [Merge-sorted-array](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Merge-sorted-array.md)
+
+8. [Pascal's-triangle](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Pascal's-triangle.md)
