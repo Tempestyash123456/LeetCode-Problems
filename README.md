@@ -17,3 +17,5 @@
 9. [Pascal's-triangle-II](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Pascal's-triangle-II.md)
 
 10. [Majority-element](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Majority-element.md)
+
+11. [Move-zeroes](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day3/Move-zeroes.md)
