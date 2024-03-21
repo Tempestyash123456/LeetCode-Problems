@@ -19,3 +19,5 @@
 10. [Majority-element](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day2/Majority-element.md)
 
 11. [Move-zeroes](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day3/Move-zeroes.md)
+
+12. [Third-maximum-element](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day4/Third-maximum-element.md)
