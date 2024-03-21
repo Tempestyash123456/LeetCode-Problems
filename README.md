@@ -21,3 +21,5 @@
 11. [Move-zeroes](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day3/Move-zeroes.md)
 
 12. [Third-maximum-element](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day4/Third-maximum-element.md)
+
+13. [Max-consecutive-ones](https://github.com/Tempestyash123456/LeetCode-Problems/blob/main/Day5/Max-consecutive-ones.md)
